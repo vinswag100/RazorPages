@@ -21,5 +21,9 @@ namespace RazorCurrencyCoverter1._0.Pages
         {
 
         }
+        public void OnPost()
+        {
+
+        }
     }
 }
